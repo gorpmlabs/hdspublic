@@ -9,13 +9,13 @@ Indeed, getting the population of _known_ places, is easy.  There are a ton of o
 ## What can you do with GeoNames?
 The short of it is this: GeoNames.org is a low-friction, **free** (repeat _free_) API for finding places on the earth and getting information about some 10 million+ geographic names, including metadata about latitude, longitude, elevation, population and even postal codes.  An added bonus is that you can [get some (limited) weather data from weather stations](http://www.geonames.org/export/JSON-webservices.html#weatherJSON) within a given query region, if that is of interest ... but either way how cool is that?!
 
-If you ponder long enough, you may come up with your own ways to slice and dice up the data.  Furthermore, you can spend some time looking at [efficient geo-algorithms for slicing]() the world up into interesting chunks and asking the API for data.
+If you ponder long enough, you may come up with your own ways to slice and dice up the data.  Furthermore, you can spend some time looking at efficient geo-algorithms for slicing the world up into interesting chunks and asking the API for data.
 
 Be aware that there are [daily rate limits](http://www.geonames.org/export/), but I found them to be rather generous and if you're close to those limits regularly, paying may be worth it anyway!
 
 
 ## What I did with GeoNames?
-You can visit their site to get a flavor for what their [full API can do](http://www.geonames.org/export/web-services.html), but with the [sample code on our Github]() you can 
+You can visit their site to get a flavor for what their [full API can do](http://www.geonames.org/export/web-services.html), but with the [sample code on our Github](https://github.com/gorpmlabs/hdspublic/tree/master/API_Friday/12122014_geonames) you can 
 
 1. to take an arbitrary [bounding box](http://wiki.openstreetmap.org/wiki/Bounding_Box) and find the top 100 cities by population within that box, 
 2. get the cities (from that 100) with the highest and lowest altitude, 
