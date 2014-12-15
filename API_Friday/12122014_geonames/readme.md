@@ -1,4 +1,4 @@
-# GeoNames API
+# GeoNames API Fun
 
 OK.  I'll admit it.  I am a fiend for asking weird questions of data.  But a class of questions about the Earth's population has been nagging at me lately.  For starters, I have a fascination for the populations of remote places on our planet.  If you take a good look at it, while there are a lot of humans on the planet - the [fun to watch popclock at the US census](http://www.census.gov/popclock/) claims about 319M in the US and 7.2B worldwide at the time of this article - the density of humans varies widely across the world.  That estimate stands at about 35 humans per square mile (if you account for the entire planet, hospitable to humans or not), or more than triple that if you exclude the places regular humans tend to avoid, like Antarctica.
 
