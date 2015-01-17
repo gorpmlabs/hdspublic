@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 '''
     Code developed as part of HDS article :
-        XXX
+        http://hds.gorpmdev.com/site/?p=102
         
-    to do quick and fun things with GeoNames API (XXX).
+    to do quick and fun things with GeoNames API (http://www.geonames.org/export/web-services.html).
     
     @author: rpmlabs / keith maull    
     @license: MIT, no warranty, guarantees 
