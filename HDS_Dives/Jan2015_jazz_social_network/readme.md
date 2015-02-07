@@ -4,7 +4,7 @@ The data for this project is based on the site [JazzDisco.org](http://www.jazzdi
 
 The data files are loaded into the CouchDB :
 
-[http://hds.iriscouch.com/jazzdisco_albums/](http://hds.iriscouch.com/jazzdisco_albums/)
+[https://hds.iriscouch.com/jazzdisco_albums/](https://hds.iriscouch.com/jazzdisco_albums/)
 
 There are a number of experimental views, but the ones of interest are :
 
