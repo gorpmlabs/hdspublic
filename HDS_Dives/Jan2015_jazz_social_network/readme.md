@@ -1,6 +1,6 @@
 ## Jazz Social Network Data
 
-The data for this project is based on the site [JazzDisco.org](www.jazzdisco.org) which inspired the project write up (see hdsjd_article.md).  The initial goal is to develop the dataset and sample visualization of the data to understand how to use it for further analysis.
+The data for this project is based on the site [JazzDisco.org](http://www.jazzdisco.org) which inspired the project write up (see hdsjd_article.md).  The initial goal is to develop the dataset and sample visualization of the data to understand how to use it for further analysis.
 
 The data files are loaded into the CouchDB :
 
