@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta content="utf-8" http-equiv="encoding">
+	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+	
+	<title>Hacking Data Science : Jazz Collaborations</title>
+	<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="js/hdsjdvis.js"></script>
+			
+	<style>	
+		body {
+			width:800;
+		}
+	
+		.node {
+		  cursor: pointer;
+		}
+		
+		.node:hover {
+		  stroke: #000;
+		  stroke-width: 1.5px;
+		}
+		
+		.node--leaf {
+		  fill: white;
+		}
+		
+		.label {
+		  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+		  text-anchor: middle;
+		  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+		}
+		
+		.label,
+		.node--root,
+		.node--leaf {
+		  pointer-events: none;
+		}
+	</style>
+</head>
+<body onload="loadArtistViz();">
+<select id="SelectArtist" onchange="loadArtistViz();">
+	<script>		
+		var select = document.getElementById("SelectArtist");
+		[
+		    "Cannonball Adderley",
+		    "Gene Ammons",
+		    "Albert Ayler",
+		    "Chet Baker",
+		    "Art Blakey",
+		    "Tina Brooks",
+		    "Clifford Brown",
+		    "Dave Brubeck",
+		    "Ray Bryant",
+		    "Donald Byrd",
+		    "Sonny Clark",
+		    "Ornette Coleman",
+		    "John Coltrane",
+		    "Chick Corea",
+		    "Sonny Criss",
+		    "Miles Davis",
+		    "Paul Desmond",
+		    "Eric Dolphy",
+		    "Lou Donaldson",
+		    "Kenny Dorham",
+		    "Kenny Drew",
+		    "Bill Evans",
+		    "Tommy Flanagan",
+		    "Red Garland",
+		    "Stan Getz",
+		    "Dizzy Gillespie",
+		    "Dexter Gordon",
+		    "Grant Green",
+		    "Johnny Griffin",
+		    "Al Haig",
+		    "Hampton Hawes",
+		    "Joe Henderson",
+		    "Milt Jackson",
+		    "Keith Jarrett",
+		    "Elvin Jones",
+		    "Philly Joe Jones",
+		    "Duke Jordan",
+		    "Wynton Kelly",
+		    "Roland Kirk",
+		    "Scott LaFaro",
+		    "Booker Little",
+		    "Jackie McLean",
+		    "Pat Metheny",
+		    "Charles Mingus",
+		    "Hank Mobley",
+		    "Thelonious Monk",
+		    "Wes Montgomery",
+		    "Lee Morgan",
+		    "Fats Navarro",
+		    "Phineas Newborn Jr.",
+		    "Charlie Parker",
+		    "Duke Pearson",
+		    "Art Pepper",
+		    "Oscar Peterson",
+		    "Bud Powell",
+		    "Max Roach",
+		    "Sonny Rollins",
+		    "Pharoah Sanders",
+		    "Shirley Scott",
+		    "Archie Shepp",
+		    "Wayne Shorter",
+		    "Horace Silver",
+		    "Zoot Sims",
+		    "Bobby Timmons",
+		    "Lennie Tristano",
+		    "Stanley Turrentine",
+		    "McCoy Tyner",
+		    "Mal Waldron" 
+		].forEach( function (o) {
+			var option = document.createElement("option");
+			option.text = o;
+			option.value = o;
+			select.add(option);
+		});	
+	
+	</script>	
+</select>
+</body>
