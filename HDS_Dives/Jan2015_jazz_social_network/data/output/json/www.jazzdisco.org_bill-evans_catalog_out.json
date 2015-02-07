@@ -1,0 +1,2791 @@
+[
+	{
+		"album": "Jerry Wald And His Orchestra",
+		"artist": "Jerry Wald",
+		"personnel": {
+			"unidentified orchestra": ["arranger"],
+			"Al Cohn": ["arranger"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["clarinet", "conductor"],
+		"year": "1953",
+		"label-id": "MGM/Lion L 70014"
+	}, {
+		"album": "The Singing Reed",
+		"artist": "Lucy Reed",
+		"personnel": {
+			"Bob Carter or Johnny Frigo": ["bass"],
+			"Bill Evans or Dick Marx": ["piano"],
+			"Sol Gubin": ["drums"],
+			"Howard Collins": ["guitar"]
+		},
+		"instrument": ["vocals"],
+		"year": "1955",
+		"label-id": "Fantasy LP 3212"
+	}, {
+		"album": "The Singing Reed",
+		"artist": "Lucy Reed",
+		"personnel": {
+			"Bob Carter or Johnny Frigo": ["bass"],
+			"Bill Evans or Dick Marx": ["piano"],
+			"Sol Gubin": ["drums"],
+			"Howard Collins": ["guitar"]
+		},
+		"instrument": ["vocals"],
+		"year": "1955",
+		"label-id": "Original Jazz Classics OJCCD 1777-2"
+	}, {
+		"album": "Listen To The Music Of Jerry Wald",
+		"artist": "Jerry Wald",
+		"personnel": {
+			"unknown": ["bass"],
+			"Paul Motian": ["drums"],
+			"possibly Eddie Costa": ["vibraphone"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["clarinet", "conductor"],
+		"year": "1955",
+		"label-id": "Kapp KL 1043"
+	}, {
+		"album": "Valley Of The Redwoods / Dancing Castanets",
+		"artist": "Jerry Wald",
+		"personnel": {
+			"unknown": ["bass"],
+			"Paul Motian": ["drums"],
+			"possibly Eddie Costa": ["vibraphone"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["clarinet", "conductor"],
+		"year": "1955",
+		"label-id": "Kapp K 173X"
+	}, {
+		"album": "Frenchman's Creek / Mesa Verde",
+		"artist": "Jerry Wald",
+		"personnel": {
+			"unknown": ["bass"],
+			"Paul Motian": ["drums"],
+			"possibly Eddie Costa": ["vibraphone"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["clarinet", "conductor"],
+		"year": "1955",
+		"label-id": "Kapp K 212X"
+	}, {
+		"album": "Jazz Workshop",
+		"personnel": {
+			"Joe Harris": ["drums"],
+			"Art Farmer": ["trumpet"],
+			"Bill Evans": ["piano"],
+			"Milt Hinton": ["bass"],
+			"Hal McKusick": ["flute", "alto saxophone"],
+			"Barry Galbraith": ["guitar"]
+		},
+		"artist": "George Russell",
+		"label-id": "RCA Victor LPM 1372",
+		"year": "1956"
+	}, {
+		"album": "Jazz Workshop \u00a0(RCA Victor",
+		"personnel": {
+			"Art Farmer": ["trumpet"],
+			"Bill Evans": ["piano"],
+			"Milt Hinton": ["bass"],
+			"Paul Motian": ["drums"],
+			"Hal McKusick": ["flute", "alto saxophone"],
+			"Barry Galbraith": ["guitar"]
+		},
+		"artist": "George Russell",
+		"label-id": "J) R32J-1082",
+		"year": "1956"
+	}, {
+		"album": "The Touch Of Tony Scott",
+		"artist": "Tony Scott",
+		"personnel": {
+			"Zoot Sims": ["tenor saxophone"],
+			"Seldon Powell": ["tenor saxophone"],
+			"Milt Hinton": ["bass"],
+			"Jimmy Nottingham": ["trumpet"],
+			"Danny Bank": ["baritone saxophone"],
+			"Jimmy Cleveland": ["trombone"],
+			"Sam Marowitz": ["alto saxophone"],
+			"Osie Johnson": ["drums"],
+			"Gigi Gryce": ["alto saxophone"],
+			"Mundell Lowe": ["guitar"],
+			"Bill Evans": ["piano"],
+			"Bart Walsaliona": ["bass trombone"],
+			"Idrees Sulieman": ["trumpet"],
+			"Rex Peer": ["trombone"],
+			"Urbie Green": ["trombone"],
+			"Jimmy Maxwell": ["trumpet"]
+		},
+		"instrument": ["clarinet", "conductor"],
+		"year": "1956",
+		"label-id": "RCA Victor LPM 1353"
+	}, {
+		"album": "New Jazz Conceptions",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1956",
+		"label-id": "Riverside RLP 12-223"
+	}, {
+		"album": "Conception",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Paul Motian": ["drums"],
+			"Teddy Kotick": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1956",
+		"label-id": "Milestone M 47063"
+	}, {
+		"album": "The Complete Tony Scott",
+		"artist": "Tony Scott",
+		"personnel": {
+			"Henry Coker": ["trombone"],
+			"Jimmy Nottingham": ["trumpet"],
+			"Johnny Carisi": ["trumpet"],
+			"Sonny Truitt": ["trombone"],
+			"Thad Jones": ["trumpet"],
+			"Osie Johnson": ["drums"],
+			"Gigi Gryce": ["alto saxophone"],
+			"Danny Bank": ["baritone saxophone"],
+			"Bill Evans": ["piano"],
+			"Benny Powell": ["trombone"],
+			"Quentin Jackson": ["trombone"],
+			"Milt Hinton": ["bass"],
+			"Frank Wess": ["tenor saxophone"],
+			"Clark Terry": ["trumpet"],
+			"Sahib Shihab": ["baritone saxophone"],
+			"Zoot Sims": ["tenor saxophone"],
+			"Freddie Green": ["guitar"]
+		},
+		"instrument": ["clarinet", "conductor"],
+		"year": "1956",
+		"label-id": "RCA Victor LPM 1452"
+	}, {
+		"album": "Tenderly: An Informal Session",
+		"personnel": {
+			"Don Elliott": ["vibraphone", "percussion"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Bill Evans/Don Elliott",
+		"label-id": "Milestone MCD 9317-2",
+		"year": "1956"
+	}, {
+		"album": "A Message From Garcia",
+		"personnel": {
+			"Dick Garcia": ["guitar"],
+			"Jerry Bruno": ["bass"],
+			"Camille Morin": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Richie \"Dick\" Garcia",
+		"label-id": "Dawn DLP 1106",
+		"year": "1956"
+	}, {
+		"album": "Modern Jazz Concert",
+		"personnel": {
+			"Art Farmer": ["trumpet"],
+			"Jim Buffington": ["french horn"],
+			"Joe Benjamin": ["bass"],
+			"Manuel Zegler": ["bassoon"],
+			"George Russell": ["arranger", "conductor"],
+			"Jimmy Knepper": ["trombone"],
+			"Bill Evans": ["piano"],
+			"Margaret Ross": ["harp"],
+			"Robert DiDomenica": ["flute"],
+			"Gunther Schuller": ["arranger", "conductor"],
+			"Louis Mucci": ["trumpet"],
+			"John LaPorta": ["alto saxophone"],
+			"Hal McKusick": ["tenor saxophone"],
+			"Barry Galbraith": ["guitar"],
+			"Ted Sommer": ["drums"],
+			"Teddy Charles": ["vibraphone"]
+		},
+		"artist": "Gunther Schuller/George Russell",
+		"label-id": "Columbia WL 127",
+		"year": "1957"
+	}, {
+		"album": "Joe Puma Quartet And Trio",
+		"artist": "Joe Puma",
+		"personnel": {
+			"Oscar Pettiford": ["bass"],
+			"Bill Evans": ["piano"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["guitar"],
+		"year": "1957",
+		"label-id": "Jubilee JLP 1070"
+	}, {
+		"album": "The Eddie Costa Trio, Mat Mathews And Don Elliott At Newport",
+		"artist": "Don Elliott",
+		"personnel": {
+			"Al Beldini": ["drums"],
+			"Bill Evans": ["piano"],
+			"Ernie Furtado": ["bass"]
+		},
+		"instrument": ["mellophone", "vibraphone", "bongos"],
+		"year": "1957",
+		"label-id": "Verve MGV 8237"
+	}, {
+		"album": "East Coasting By Charles Mingus",
+		"artist": "Charles Mingus",
+		"personnel": {
+			"Jimmy Knepper": ["trombone"],
+			"Curtis Porter": ["tenor", "alto saxophone"],
+			"Dannie Richmond": ["drums"],
+			"Bill Evans": ["piano"],
+			"Clarence Shaw": ["trumpet"]
+		},
+		"instrument": ["bass"],
+		"year": "1957",
+		"label-id": "Bethlehem BCP 6019"
+	}, {
+		"album": "East Coasting By Charles Mingus",
+		"artist": "Charles Mingus",
+		"personnel": {
+			"Jimmy Knepper": ["trombone"],
+			"Curtis Porter": ["tenor", "alto saxophone"],
+			"Dannie Richmond": ["drums"],
+			"Bill Evans": ["piano"],
+			"Clarence Shaw": ["trumpet"]
+		},
+		"instrument": ["bass"],
+		"year": "1957",
+		"label-id": "Bethlehem 20-30022"
+	}, {
+		"album": "A Swinging Introduction To Jimmy Knepper",
+		"artist": "Jimmy Knepper",
+		"personnel": {
+			"Dannie Richmond": ["drums"],
+			"Bill Evans": ["piano"],
+			"Gene Quill": ["alto saxophone"],
+			"Teddy Kotick": ["bass"]
+		},
+		"instrument": ["trombone"],
+		"year": "1957",
+		"label-id": "Bethlehem BCP 77"
+	}, {
+		"album": "Jazz Sahib",
+		"artist": "Sahib Shihab",
+		"personnel": {
+			"Bill Evans": ["piano"],
+			"Phil Woods": ["alto saxophone"],
+			"Art Taylor": ["drums"],
+			"Benny Golson": ["tenor saxophone"],
+			"Oscar Pettiford": ["bass"]
+		},
+		"instrument": ["baritone saxophone"],
+		"year": "1957",
+		"label-id": "Savoy MG 12124"
+	}, {
+		"album": "The Modern Art Of Jazz, Vol. 4",
+		"artist": "Tony Scott",
+		"personnel": {
+			"Jimmy Knepper": ["trombone"],
+			"Bill Evans": ["piano"],
+			"Milt Hinton": ["bass"],
+			"Paul Motian": ["drums"],
+			"Clark Terry": ["trumpet"],
+			"Sahib Shihab": ["baritone saxophone"],
+			"Henry Grimes": ["bass"]
+		},
+		"instrument": ["clarinet", "baritone saxophone"],
+		"year": "1957",
+		"label-id": "Seeco CELP 425"
+	}, {
+		"album": "Modern Jazz Festival",
+		"personnel": {
+			"Milt Hinton": ["bass"],
+			"Jimmy Knepper": ["trombone"],
+			"Paul Motian": ["drums"],
+			"Bill Evans": ["piano"],
+			"Tony Scott": ["clarinet", "baritone saxophone"]
+		},
+		"artist": "Various Artists",
+		"label-id": "Harmony HL 7196",
+		"year": "1957"
+	}, {
+		"album": "Free Blown Jazz",
+		"personnel": {
+			"Jimmy Knepper": ["trombone"],
+			"Bill Evans": ["piano"],
+			"Tony Scott": ["clarinet", "baritone saxophone"],
+			"Milt Hinton": ["bass"],
+			"Paul Motian": ["drums"],
+			"Clark Terry": ["trumpet"],
+			"Sahib Shihab": ["baritone saxophone"],
+			"Henry Grimes": ["bass"]
+		},
+		"artist": "Tony Scott/Jimmy Knepper",
+		"label-id": "Carlton STLP 12/113",
+		"year": "1957"
+	}, {
+		"album": "My Kind Of Jazz",
+		"artist": "Tony Scott",
+		"personnel": {
+			"Jimmy Knepper": ["trombone"],
+			"Bill Evans": ["piano"],
+			"Milt Hinton": ["bass"],
+			"Paul Motian": ["drums"],
+			"Clark Terry": ["trumpet"],
+			"Sahib Shihab": ["baritone saxophone"],
+			"Henry Grimes": ["bass"]
+		},
+		"instrument": ["clarinet", "baritone saxophone"],
+		"year": "1957",
+		"label-id": "Perfect PL 12010"
+	}, {
+		"album": "Jazz Great \u00a0(Allegro",
+		"personnel": {
+			"Milt Hinton": ["bass"],
+			"Paul Motian": ["drums"],
+			"Bill Evans": ["piano"],
+			"Tony Scott": ["clarinet", "baritone saxophone"]
+		},
+		"artist": "Various Artists",
+		"label-id": "E) ALL 737",
+		"year": "1957"
+	}, {
+		"album": "Roots",
+		"personnel": {
+			"Louis Hayes": ["drums"],
+			"Bill Evans": ["piano"],
+			"Idrees Sulieman": ["trumpet"],
+			"Pepper Adams": ["baritone saxophone"],
+			"Frank Rehak": ["trombone"],
+			"Doug Watkins": ["bass"]
+		},
+		"artist": "The Prestige All Stars",
+		"label-id": "New Jazz NJLP 8202",
+		"year": "1957"
+	}, {
+		"album": "Guys And Dolls Like Vibes",
+		"artist": "Eddie Costa",
+		"personnel": {
+			"Paul Motian": ["drums"],
+			"Bill Evans": ["piano"],
+			"Wendell Marshall": ["bass"]
+		},
+		"instrument": ["vibraphone"],
+		"year": "1958",
+		"label-id": "Coral CRL 57230"
+	}, {
+		"album": "The Mello Sound Of Don Elliott",
+		"artist": "Don Elliott",
+		"personnel": {
+			"Bill Evans": ["piano"],
+			"Ernie Furtado": ["bass"],
+			"Paul Motian": ["drums"],
+			"Hal McKusick": ["flute", "clarinet", "bass clarinet", "alto", "tenor saxophone"],
+			"Barry Galbraith": ["guitar"],
+			"Janet Putman": ["harp"]
+		},
+		"instrument": ["trumpet", "mellophone", "vibraphone", "vocals"],
+		"year": "1958",
+		"label-id": "Decca DL 9208"
+	}, {
+		"album": "The Nearness Of You",
+		"artist": "Helen Merrill",
+		"personnel": {
+			"George Russell": ["guitar"],
+			"Bill Evans": ["piano"],
+			"Bobby Jaspar": ["flute"],
+			"Jo Jones": ["drums"],
+			"Oscar Pettiford": ["bass"]
+		},
+		"instrument": ["vocals"],
+		"year": "1958",
+		"label-id": "EmArcy MG 36134"
+	}, {
+		"album": "Cross Section Saxes",
+		"artist": "Hal McKusick",
+		"personnel": {
+			"Art Farmer": ["trumpet"],
+			"Connie Kay": ["drums"],
+			"Paul Chambers": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["bass clarinet", "alto saxophone"],
+		"year": "1958",
+		"label-id": "Decca DL 9209"
+	}, {
+		"album": "Makin' Wax \u00a0(Chakra",
+		"artist": "Miles Davis",
+		"personnel": {
+			"Philly Joe Jones": ["drums"],
+			"Bill Evans": ["piano"],
+			"Dan Morgenstern": ["announcer"],
+			"Paul Chambers": ["bass"],
+			"John Coltrane": ["tenor saxophone"],
+			"Leonard Feather": ["announcer"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1958",
+		"label-id": "It) TH 100 MD"
+	}, {
+		"album": "Miles Davis All Stars Featuring John Coltrane And Bill Evans \u00a0(Jazz Band",
+		"personnel": {
+			"Philly Joe Jones": ["drums"],
+			"Bill Evans": ["piano"],
+			"Dan Morgenstern": ["announcer"],
+			"Paul Chambers": ["bass"],
+			"Miles Davis": ["trumpet"],
+			"John Coltrane": ["tenor saxophone"],
+			"Leonard Feather": ["announcer"]
+		},
+		"artist": "Miles Davis All Stars Featuring John Coltrane And Bill Evans \u00a0(Jazz Band",
+		"label-id": "E) EB 418",
+		"year": "1958"
+	}, {
+		"album": "Jazz Tracks",
+		"artist": "Miles Davis",
+		"personnel": {
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1958",
+		"label-id": "Columbia CL 1268"
+	}, {
+		"album": "The Complete Columbia Recordings Of Miles Davis With John Coltrane",
+		"personnel": {
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"Miles Davis": ["trumpet"],
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"artist": "The Complete Columbia Recordings Of Miles Davis With John Coltrane",
+		"label-id": "Mosaic MQ9-191",
+		"year": "1958"
+	}, {
+		"album": "'58 Sessions",
+		"artist": "Miles Davis",
+		"personnel": {
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"],
+			"Paul Chambers": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1958",
+		"label-id": "Columbia/Legacy CJ 47835"
+	}, {
+		"album": "Black Giants",
+		"personnel": {
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"Miles Davis": ["trumpet"],
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"artist": "Various Artists",
+		"label-id": "Columbia KG 33402",
+		"year": "1958"
+	}, {
+		"album": "Legrand Jazz",
+		"artist": "Michel Legrand",
+		"personnel": {
+			"Betty Glamann": ["harp"],
+			"Jerome Richardson": ["clarinet", "baritone saxophone"],
+			"Eddie Costa": ["vibraphone"],
+			"Bill Evans": ["piano"],
+			"Phil Woods": ["alto saxophone"],
+			"Paul Chambers": ["bass"],
+			"Miles Davis": ["trumpet"],
+			"Barry Galbraith": ["guitar"],
+			"John Coltrane": ["tenor saxophone"],
+			"Herbie Mann": ["flute"],
+			"Kenny Dennis": ["drums"]
+		},
+		"instrument": ["arranger", "conductor"],
+		"year": "1958",
+		"label-id": "Columbia CL 1250"
+	}, {
+		"album": "Portrait Of Cannonball",
+		"artist": "Cannonball Adderley",
+		"personnel": {
+			"Philly Joe Jones": ["drums"],
+			"Sam Jones": ["bass"],
+			"Blue Mitchell": ["trumpet"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["alto saxophone"],
+		"year": "1958",
+		"label-id": "Riverside RLP 12-269"
+	}, {
+		"album": "Portrait Of Cannonball",
+		"artist": "Cannonball Adderley",
+		"personnel": {
+			"Philly Joe Jones": ["drums"],
+			"Sam Jones": ["bass"],
+			"Blue Mitchell": ["trumpet"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["alto saxophone"],
+		"year": "1958",
+		"label-id": "Original Jazz Classics OJC 361"
+	}, {
+		"album": "Cannonball And Eight Giants",
+		"artist": "Cannonball Adderley",
+		"personnel": {
+			"Philly Joe Jones": ["drums"],
+			"Sam Jones": ["bass"],
+			"Blue Mitchell": ["trumpet"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["alto saxophone"],
+		"year": "1958",
+		"label-id": "Milestone M 47001"
+	}, {
+		"album": "Miles And Monk At Newport",
+		"artist": "Miles Davis",
+		"personnel": {
+			"Willis Conover": ["announcer"],
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1958",
+		"label-id": "Columbia CL 2178"
+	}, {
+		"album": "59 \u00a0(FDC",
+		"personnel": {
+			"Willis Conover": ["announcer"],
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"Miles Davis": ["trumpet"],
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"artist": "Various Artists - Newport Jazz Festival 1958",
+		"label-id": "It) 1024",
+		"year": "1958"
+	}, {
+		"album": "Play \u00a0(Jazz Music Yesterday",
+		"artist": "Miles Davis",
+		"personnel": {
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1958",
+		"label-id": "It) JMY ME 6402"
+	}, {
+		"album": "Jump For Joy",
+		"artist": "Cannonball Adderley",
+		"personnel": {
+			"Emmett Berry": ["trumpet"],
+			"Dave Schwartz": ["viola"],
+			"Bill Evans": ["piano"],
+			"Milt Hinton": ["bass"],
+			"Leo Kruczek": ["violin"],
+			"Bill Russo": ["arranger"],
+			"Barry Galbraith": ["guitar"],
+			"George Ricci": ["cello"],
+			"Gene Orloff": ["violin"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"instrument": ["alto saxophone"],
+		"year": "1958",
+		"label-id": "EmArcy MG 36146"
+	}, {
+		"album": "Jazz At Plaza, Vol. 1",
+		"artist": "Miles Davis",
+		"personnel": {
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1958",
+		"label-id": "Columbia C 32470"
+	}, {
+		"album": "Modern Art",
+		"artist": "Art Farmer",
+		"personnel": {
+			"Addison Farmer": ["bass"],
+			"Benny Golson": ["tenor saxophone"],
+			"Bill Evans": ["piano"],
+			"Dave Bailey": ["drums"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1958",
+		"label-id": "United Artists UAL 4007"
+	}, {
+		"album": "New York, N.Y.",
+		"artist": "George Russell",
+		"personnel": {
+			"Bob Brookmeyer": ["valve trombone"],
+			"Art Farmer": ["trumpet"],
+			"Tom Mitchell": ["trombone"],
+			"Jon Hendricks": ["narrator"],
+			"Charlie Persip": ["drums"],
+			"Ernie Royal": ["trumpet"],
+			"Bill Evans": ["piano"],
+			"Milt Hinton": ["bass"],
+			"Doc Severinsen": ["trumpet"],
+			"Hal McKusick": ["alto saxophone"],
+			"Sol Schlinger": ["baritone saxophone"],
+			"Barry Galbraith": ["guitar"],
+			"Frank Rehak": ["trombone"],
+			"John Coltrane": ["tenor saxophone"]
+		},
+		"instrument": ["arranger", "conductor"],
+		"year": "1958",
+		"label-id": "Decca DL 9216"
+	}, {
+		"album": "Everybody Digs Bill Evans",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Sam Jones": ["bass"],
+			"Philly Joe Jones": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1958",
+		"label-id": "Riverside RLP 12-291"
+	}, {
+		"album": "Chet",
+		"artist": "Chet Baker",
+		"personnel": {
+			"Kenny Burrell": ["guitar"],
+			"Connie Kay": ["drums"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"Pepper Adams": ["baritone saxophone"],
+			"Herbie Mann": ["flute"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1958",
+		"label-id": "Riverside RLP 12-299"
+	}, {
+		"album": "The Jazz Soul Of Porgy And Bess",
+		"artist": "Bill Potts",
+		"personnel": {
+			"Bob Brookmeyer": ["valve trombone"],
+			"Art Farmer": ["trumpet"],
+			"Bernie Glow": ["trumpet"],
+			"Jimmy Cleveland": ["trombone"],
+			"Harry Edison": ["trumpet"],
+			"Charlie Persip": ["drums"],
+			"Herbie Powell": ["guitar"],
+			"Gene Quill": ["alto saxophone"],
+			"Rod Levitt": ["trombone"],
+			"Al Cohn": ["tenor saxophone"],
+			"Bill Evans": ["piano"],
+			"Marky Markowitz": ["trumpet"],
+			"Sol Schlinger": ["baritone saxophone"],
+			"Zoot Sims": ["tenor saxophone"],
+			"Frank Rehak": ["trombone"],
+			"Phil Woods": ["alto saxophone"],
+			"George Duvivier": ["bass"],
+			"Charlie Shavers": ["trumpet"],
+			"Earl Swope": ["trombone"]
+		},
+		"instrument": ["arranger", "conductor"],
+		"year": "1959",
+		"label-id": "United Artists UAL 4032"
+	}, {
+		"album": "Peace Piece And Other Pieces",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Paul Chambers": ["bass"],
+			"Philly Joe Jones": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1959",
+		"label-id": "Milestone M 47024"
+	}, {
+		"album": "New Blue Horns",
+		"personnel": {
+			"Kenny Burrell": ["guitar"],
+			"Chet Baker": ["trumpet"],
+			"Philly Joe Jones": ["drums"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"Pepper Adams": ["baritone saxophone"],
+			"Herbie Mann": ["flute"]
+		},
+		"artist": "Various Artists",
+		"label-id": "Riverside RLP 12-294",
+		"year": "1959"
+	}, {
+		"album": "Live At The Half Note",
+		"artist": "Lee Konitz",
+		"personnel": {
+			"Warne Marsh": ["tenor saxophone"],
+			"Jimmy Garrison": ["bass"],
+			"Paul Motian": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["alto saxophone"],
+		"year": "1959",
+		"label-id": "Verve 314 512 659-2"
+	}, {
+		"album": "Kind Of Blue",
+		"artist": "Miles Davis",
+		"personnel": {
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1959",
+		"label-id": "Columbia CL 1355"
+	}, {
+		"album": "The Ivory Hunters",
+		"personnel": {
+			"Bob Brookmeyer": ["piano"],
+			"Percy Heath": ["bass"],
+			"Connie Kay": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Bob Brookmeyer And Bill Evans",
+		"label-id": "United Artists UAL 3044",
+		"year": "1959"
+	}, {
+		"album": "1985",
+		"artist": "Miles Davis",
+		"personnel": {
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"John Coltrane": ["tenor saxophone"],
+			"Jimmy Cobb": ["drums"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1959",
+		"label-id": "Columbia C5X 45000"
+	}, {
+		"album": "Lee Konitz Meets Jimmy Giuffre",
+		"personnel": {
+			"Buddy Clark": ["bass"],
+			"Bill Evans": ["piano"],
+			"Warne Marsh": ["tenor saxophone"],
+			"Ronnie Free": ["drums"],
+			"Hal McKusick": ["alto saxophone"],
+			"Jimmy Giuffre": ["baritone saxophone", "arranger"],
+			"Ted Brown": ["tenor saxophone"],
+			"Lee Konitz": ["alto saxophone"]
+		},
+		"artist": "Lee Konitz Meets Jimmy Giuffre",
+		"label-id": "Verve MGV 8335",
+		"year": "1959"
+	}, {
+		"album": "Something New, Something Blue",
+		"artist": "Manny Albam",
+		"personnel": {
+			"Art Farmer": ["trumpet"],
+			"Al Cohn": ["tenor", "baritone saxophone"],
+			"Eddie Costa": ["vibraphone"],
+			"Bill Evans": ["piano"],
+			"Phil Woods": ["alto saxophone"],
+			"Addison Farmer": ["bass"],
+			"Ed Shaughnessy": ["drums"],
+			"Frank Rehak": ["trombone"]
+		},
+		"instrument": ["arranger", "conductor"],
+		"year": "1959",
+		"label-id": "Columbia CL 1388"
+	}, {
+		"album": "The Art Of Improvising",
+		"artist": "Warne Marsh",
+		"personnel": {
+			"Henry Grimes": ["bass"],
+			"Paul Motian": ["drums"],
+			"Bill Evans": ["piano"],
+			"Lee Konitz": ["alto saxophone"]
+		},
+		"instrument": ["tenor saxophone"],
+		"year": "1959",
+		"label-id": "Revelation REV 22"
+	}, {
+		"album": "The Art Of Improvising, Vol. 2",
+		"artist": "Warne Marsh",
+		"personnel": {
+			"Henry Grimes": ["bass"],
+			"Paul Motian": ["drums"],
+			"Bill Evans": ["piano"],
+			"Lee Konitz": ["alto saxophone"]
+		},
+		"instrument": ["tenor saxophone"],
+		"year": "1959",
+		"label-id": "Revelation REV 27"
+	}, {
+		"album": "Odds Against Tomorrow",
+		"artist": "John Lewis",
+		"personnel": {
+			"Melvyn Broiles": ["trumpet"],
+			"Harvey Phillips": ["tuba"],
+			"Percy Heath": ["bass"],
+			"Walter Rosenberger": ["percussion"],
+			"Al Richman": ["french horn"],
+			"Bill Evans": ["piano"],
+			"Richard Horowitz": ["timpani"],
+			"Ruth Berman": ["harp"],
+			"Ray Alonge": ["french horn"],
+			"John Ware": ["trumpet"],
+			"John Clark": ["trombone"],
+			"Bernie Glow": ["trumpet"],
+			"Paul Ingraham": ["french horn"],
+			"Joe Wilder": ["trumpet"],
+			"Robert DiDomenica": ["flute"],
+			"Joseph Tekula": ["cello"],
+			"Connie Kay": ["drums"],
+			"Tom McIntosh": ["trombone"],
+			"Jim Hall": ["guitar"],
+			"Milt Jackson": ["vibraphone"],
+			"Harvey Shapiro": ["cello"],
+			"Gunther Schuller": ["french horn"]
+		},
+		"instrument": ["composer"],
+		"year": "1959",
+		"label-id": "United Artists UAL 4061"
+	}, {
+		"album": "Chet Baker Plays The Best Of Lerner And Loewe",
+		"artist": "Chet Baker",
+		"personnel": {
+			"Clifford Jarvis": ["drums"],
+			"Bill Evans": ["piano"],
+			"Pepper Adams": ["baritone saxophone"],
+			"Herbie Mann": ["flute", "tenor saxophone"],
+			"Zoot Sims": ["tenor", "alto saxophone"],
+			"Earl May": ["bass"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1959",
+		"label-id": "Riverside RLP 12-307"
+	}, {
+		"album": "Golden Moments",
+		"artist": "Tony Scott",
+		"personnel": {
+			"Jimmy Garrison": ["bass"],
+			"Pete La Roca": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["clarinet"],
+		"year": "1959",
+		"label-id": "Muse MR 5230"
+	}, {
+		"album": "I'll Remember",
+		"artist": "Tony Scott",
+		"personnel": {
+			"Jimmy Garrison": ["bass"],
+			"Pete La Roca": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["clarinet"],
+		"year": "1959",
+		"label-id": "Muse MR 5266"
+	}, {
+		"album": "Sung Heroes",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"],
+			"Bill Evans": ["piano"],
+			"Tony Scott": ["clarinet"]
+		},
+		"artist": "Tony Scott Featuring Bill Evans/Scott LaFaro/Paul Motian",
+		"label-id": "Sunnyside SSC 1015",
+		"year": "1959"
+	}, {
+		"album": "You And Lee",
+		"artist": "Lee Konitz",
+		"personnel": {
+			"Bob Brookmeyer": ["valve trombone"],
+			"Eddie Bert": ["trombone"],
+			"Sonny Dallas": ["bass"],
+			"Phil Sunkel": ["trumpet"],
+			"Ernie Royal": ["trumpet"],
+			"Bill Evans": ["piano"],
+			"Roy Haynes": ["drums"],
+			"Billy Byers": ["trombone"],
+			"Marky Markowitz": ["trumpet"],
+			"Jimmy Giuffre": ["arranger", "conductor"]
+		},
+		"instrument": ["alto saxophone"],
+		"year": "1959",
+		"label-id": "Verve MGV 8362"
+	}, {
+		"album": "Portrait In Jazz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1959",
+		"label-id": "Riverside RLP 12-315"
+	}, {
+		"album": "Portrait In Jazz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1959",
+		"label-id": "Riverside RLP 1162"
+	}, {
+		"album": "Portrait In Jazz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1959",
+		"label-id": "Original Jazz Classics OJCCD 088-2"
+	}, {
+		"album": "Portrait In Jazz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1959",
+		"label-id": "Riverside RCD 30678"
+	}, {
+		"album": "The Soft Land Of Make Believe",
+		"artist": "Frank Minion",
+		"personnel": {
+			"Jimmy Cobb": ["drums"],
+			"Paul Chambers": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["vocals"],
+		"year": "1960",
+		"label-id": "Bethlehem BCP 6052"
+	}, {
+		"album": "A Rare Original",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1960",
+		"label-id": "Alto AL 719"
+	}, {
+		"album": "The Soul Of Jazz Percussion",
+		"personnel": {
+			"'Philly' Joe Jones": ["drums"],
+			"Earl Zindars": ["timpani"],
+			"Donald Byrd": ["trumpet"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"Pepper Adams": ["baritone saxophone"]
+		},
+		"artist": "Curtis Fuller/Booker Little/Donald Byrd/'Philly' Joe Jones/Paul Chambers/Pepper Adams/Bill Evans/Mal Waldron/Ed Shaughnessy/Armando Peraza/Marcus Belgrave/Addison Farmer/Don Ellis/Willie Rodriguez/Earl Zindars",
+		"label-id": "Warwick W 5003",
+		"year": "1960"
+	}, {
+		"album": "The Third World",
+		"artist": "Donald Byrd",
+		"personnel": {
+			"'Philly' Joe Jones": ["drums"],
+			"Earl Zindars": ["timpani"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"],
+			"Pepper Adams": ["baritone saxophone"]
+		},
+		"instrument": ["trumpet"],
+		"year": "1960",
+		"label-id": "TCB LP 1004"
+	}, {
+		"album": "Hooray For Bill Evans Trio",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1960",
+		"label-id": "Session Disc 113"
+	}, {
+		"album": "Jazz In The Space Age",
+		"artist": "George Russell",
+		"personnel": {
+			"Alan Kiger": ["trumpet"],
+			"Don Lamond": ["drums"],
+			"Paul Bley": ["piano"],
+			"Ernie Royal": ["trumpet"],
+			"Walt Levinsky": ["alto saxophone"],
+			"Milt Hinton": ["bass"],
+			"Jim Buffington": ["french horn"],
+			"Bill Evans": ["piano"],
+			"Dave Young": ["tenor saxophone"],
+			"Barry Galbraith": ["guitar"],
+			"Frank Rehak": ["trombone"],
+			"Dave Baker": ["trombone"],
+			"Howard Collins": ["guitar"]
+		},
+		"instrument": ["arranger", "conductor"],
+		"year": "1960",
+		"label-id": "Decca DL 9219"
+	}, {
+		"album": "The Great Kai And J.J.",
+		"personnel": {
+			"Roy Haynes": ["drums"],
+			"Paul Chambers": ["bass"],
+			"Kai Winding": ["trombone"],
+			"J.J. Johnson": ["trombone"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Kai Winding/J.J. Johnson",
+		"label-id": "Impulse! A 1",
+		"year": "1960"
+	}, {
+		"album": "The Incredible Kai Winding Trombones",
+		"artist": "Kai Winding",
+		"personnel": {
+			"Jimmy Knepper": ["trombone"],
+			"Sticks Evans": ["drums"],
+			"Bill Evans": ["piano"],
+			"Dick Lieb": ["bass trombone"],
+			"Ron Carter": ["bass"],
+			"Paul Faulise": ["bass trombone"]
+		},
+		"instrument": ["trombone"],
+		"year": "1960",
+		"label-id": "Impulse! A 3"
+	}, {
+		"album": "Jazz Abstractions",
+		"personnel": {
+			"Sticks Evans": ["drums"],
+			"Scott LaFaro": ["bass"],
+			"Charles Libove": ["violin"],
+			"Jim Hall": ["guitar"],
+			"George Duvivier": ["bass"],
+			"Eddie Costa": ["vibraphone"],
+			"Eric Dolphy": ["flute"],
+			"Robert DiDomenica": ["flute"],
+			"Bill Evans": ["piano"],
+			"Joseph Tekula": ["cello"],
+			"Gunther Schuller": ["arranger", "conductor"],
+			"Harry Zaratzian": ["viola"],
+			"Roland Vamos": ["violin"]
+		},
+		"artist": "John Lewis/Gunther Schuller/Jim Hall",
+		"label-id": "Atlantic LP 1365",
+		"year": "1960"
+	}, {
+		"album": "Know What I Mean",
+		"personnel": {
+			"Percy Heath": ["bass"],
+			"Connie Kay": ["drums"],
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Cannonball Adderley/Bill Evans",
+		"label-id": "Riverside RLP 433",
+		"year": "1961"
+	}, {
+		"album": "Know What I Mean",
+		"personnel": {
+			"Percy Heath": ["bass"],
+			"Connie Kay": ["drums"],
+			"Cannonball Adderley": ["alto saxophone"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Cannonball Adderley/Bill Evans",
+		"label-id": "Original Jazz Classics OJCCD 105-2",
+		"year": "1961"
+	}, {
+		"album": "Explorations",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1961",
+		"label-id": "Riverside RLP 351"
+	}, {
+		"album": "Explorations",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1961",
+		"label-id": "Original Jazz Classics OJCCD 037-2"
+	}, {
+		"album": "Spring Leaves",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1961",
+		"label-id": "Milestone M 47034"
+	}, {
+		"album": "The Blues And The Abstract Truth",
+		"artist": "Oliver Nelson",
+		"personnel": {
+			"George Barrow": ["baritone saxophone"],
+			"Eric Dolphy": ["alto saxophone", "flute"],
+			"Roy Haynes": ["drums"],
+			"Freddie Hubbard": ["trumpet"],
+			"Bill Evans": ["piano"],
+			"Paul Chambers": ["bass"]
+		},
+		"instrument": ["alto", "tenor saxophone", "arranger"],
+		"year": "1961",
+		"label-id": "Impulse! A 5"
+	}, {
+		"album": "The Complete Live At The Village Vanguard 1961 \u00a0(Riverside",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1961",
+		"label-id": "J) VICJ 60951/3"
+	}, {
+		"album": "More From The Vanguard",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1961",
+		"label-id": "Milestone M 9125"
+	}, {
+		"album": "Waltz For Debby",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1961",
+		"label-id": "Riverside RLP 399"
+	}, {
+		"album": "Sunday At The Village Vanguard",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1961",
+		"label-id": "Riverside RLP 376"
+	}, {
+		"album": "The Village Vanguard Sessions",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Scott LaFaro": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1961",
+		"label-id": "Milestone M 47002"
+	}, {
+		"album": "Rah",
+		"artist": "Mark Murphy",
+		"personnel": {
+			"Bernie Glow": ["trumpet"],
+			"Jimmy Cleveland": ["trombone"],
+			"Sam Herman": ["guitar"],
+			"Wendell Marshall": ["bass"],
+			"Ernie Royal": ["trumpet"],
+			"Bill Evans": ["piano"],
+			"Melba Liston": ["trombone"],
+			"Clark Terry": ["trumpet"],
+			"Ray Barretto": ["congas"],
+			"Jimmy Cobb": ["drums"],
+			"Ernie Wilkins": ["arranger"]
+		},
+		"instrument": ["vocals"],
+		"year": "1961",
+		"label-id": "Riverside RLP 395"
+	}, {
+		"album": "Pike's Peak",
+		"artist": "Dave Pike",
+		"personnel": {
+			"Walter Perkins": ["drums"],
+			"Bill Evans": ["piano"],
+			"Herbie Lewis": ["bass"]
+		},
+		"instrument": ["vibraphone"],
+		"year": "1961",
+		"label-id": "Epic LA 16025"
+	}, {
+		"album": "Nirvana",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Herbie Mann": ["flute"],
+			"Paul Motian": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Herbie Mann/Bill Evans",
+		"label-id": "Atlantic LP 1426",
+		"year": "1961"
+	}, {
+		"album": "The Vibes Are On Bill Evans Trio",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1962",
+		"label-id": "Chazzer 2007"
+	}, {
+		"album": "The Magic Touch",
+		"artist": "Tadd Dameron",
+		"personnel": {
+			"Britt Woodman": ["trombone"],
+			"Tate Houston": ["baritone saxophone"],
+			"Jimmy Cleveland": ["trombone"],
+			"Leo Wright": ["alto saxophone", "flute"],
+			"Julius Watkins": ["french horn"],
+			"Jerome Richardson": ["tenor saxophone", "flute"],
+			"Johnny Griffin": ["tenor saxophone"],
+			"Philly Joe Jones": ["drums"],
+			"Bill Evans": ["piano"],
+			"Joe Wilder": ["trumpet"],
+			"Blue Mitchell": ["trumpet"],
+			"Clark Terry": ["trumpet"],
+			"Jerry Dodgion": ["alto saxophone", "flute"],
+			"George Duvivier": ["bass"]
+		},
+		"instrument": ["arranger", "conductor"],
+		"year": "1962",
+		"label-id": "Riverside RLP 419"
+	}, {
+		"album": "The Magic Touch",
+		"artist": "Tadd Dameron",
+		"personnel": {
+			"Britt Woodman": ["trombone"],
+			"Tate Houston": ["baritone saxophone"],
+			"Jimmy Cleveland": ["trombone"],
+			"Leo Wright": ["alto saxophone", "flute"],
+			"Julius Watkins": ["french horn"],
+			"Jerome Richardson": ["tenor saxophone", "flute"],
+			"Johnny Griffin": ["tenor saxophone"],
+			"Philly Joe Jones": ["drums"],
+			"Bill Evans": ["piano"],
+			"Joe Wilder": ["trumpet"],
+			"Blue Mitchell": ["trumpet"],
+			"Clark Terry": ["trumpet"],
+			"Jerry Dodgion": ["alto saxophone", "flute"],
+			"George Duvivier": ["bass"]
+		},
+		"instrument": ["arranger", "conductor"],
+		"year": "1962",
+		"label-id": "Original Jazz Classics OJCCD 143-2"
+	}, {
+		"album": "Undercurrent",
+		"personnel": {
+			"Jim Hall": ["guitar"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Bill Evans/Jim Hall",
+		"label-id": "United Artists UAJ 14003",
+		"year": "1962"
+	}, {
+		"album": "Undercurrent",
+		"personnel": {
+			"Jim Hall": ["guitar"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Bill Evans/Jim Hall",
+		"label-id": "Blue Note B1-90583",
+		"year": "1962"
+	}, {
+		"album": "Undercurrent",
+		"personnel": {
+			"Jim Hall": ["guitar"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Bill Evans/Jim Hall",
+		"label-id": "Blue Note CDP 7 90583 2",
+		"year": "1962"
+	}, {
+		"album": "Pop + Jazz = Swing",
+		"artist": "Benny Golson",
+		"personnel": {
+			"Wayne Shorter": ["tenor saxophone"],
+			"Hanry Lokofsky": ["violin"],
+			"Harold Goletta": ["viola"],
+			"Julius Held": ["violin"],
+			"Curtis Fuller": ["trombone"],
+			"Charles McCracken": ["cello"],
+			"Lou Cranston": ["tenor saxophone"],
+			"Jerome Richardson": ["flute"],
+			"Bill Evans": ["piano"],
+			"Freddie Hubbard": ["trumpet"],
+			"Ron Carter": ["bass"],
+			"Charlie Persip": ["drums"],
+			"George Ockner": ["violin"],
+			"Gene Orloff": ["violin"],
+			"Danny Bank": ["flute", "baritone saxophone"],
+			"Ray Alonge": ["french horn"],
+			"Bob Northern": ["french horn"]
+		},
+		"instrument": ["arranger", "conductor"],
+		"year": "1962",
+		"label-id": "Audio Fidelity AFLP 1978"
+	}, {
+		"album": "Just Jazz!",
+		"artist": "Benny Golson",
+		"personnel": {
+			"Eric Dolphy": ["alto saxophone"],
+			"Bill Evans": ["piano"],
+			"Bill Hardman": ["trumpet"],
+			"Charlie Persip": ["drums"],
+			"Grachan Moncur III": ["trombone"],
+			"Ron Carter": ["bass"]
+		},
+		"instrument": ["arranger", "conductor"],
+		"year": "1962",
+		"label-id": "Audio Fidelity AFLP 2150"
+	}, {
+		"album": "Moon Beams",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1962",
+		"label-id": "Riverside RLP 428"
+	}, {
+		"album": "How My Heart Sings!",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1962",
+		"label-id": "Riverside RLP 473"
+	}, {
+		"album": "How My Heart Sings!",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1962",
+		"label-id": "Original Jazz Classics OJCCD 369-2"
+	}, {
+		"album": "Interplay",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Percy Heath": ["bass"],
+			"Jim Hall": ["guitar"],
+			"Freddie Hubbard": ["trumpet"],
+			"Philly Joe Jones": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1962",
+		"label-id": "Riverside RLP 445"
+	}, {
+		"album": "Interplay",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Percy Heath": ["bass"],
+			"Jim Hall": ["guitar"],
+			"Freddie Hubbard": ["trumpet"],
+			"Philly Joe Jones": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1962",
+		"label-id": "Original Jazz Classics OJCCD 308-2"
+	}, {
+		"album": "Empathy",
+		"personnel": {
+			"Shelly Manne": ["drums"],
+			"Monty Budwig": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Shelly Manne/Bill Evans With Monty Budwig",
+		"label-id": "Verve V/V6 8497",
+		"year": "1962"
+	}, {
+		"album": "The Interplay Sessions",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Jim Hall": ["guitar"],
+			"Ron Carter": ["bass"],
+			"Zoot Sims": ["tenor saxophone"],
+			"Philly Joe Jones": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1962",
+		"label-id": "Milestone M 47066"
+	}, {
+		"album": "The Solo Sessions, Vol. 1",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Milestone M 9170"
+	}, {
+		"album": "The Solo Sessions, Vol. 2",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Milestone MCD 9195-2"
+	}, {
+		"album": "The Gary McFarland Orchestra",
+		"artist": "Gary McFarland",
+		"personnel": {
+			"Spencer Sinatra": ["alto saxophone", "flute"],
+			"Jim Hall": ["guitar"],
+			"Aaron Juvelier": ["cello"],
+			"Julian Barber": ["viola"],
+			"Phil Woods": ["clarinet"],
+			"Richard Davis": ["bass"],
+			"Bill Evans": ["piano"],
+			"Joseph Tekula": ["cello"],
+			"Allan Goldberg": ["viola"],
+			"Ed Shaughnessy": ["drums"]
+		},
+		"instrument": ["vibraphone", "arranger", "conductor"],
+		"year": "1963",
+		"label-id": "Verve V/V6 8518"
+	}, {
+		"album": "Conversations With Myself",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Verve V/V6 8526"
+	}, {
+		"album": "Conversations With Myself",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Verve 821 984-2"
+	}, {
+		"album": "The Best Of Bill Evans",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Verve V/V6 8747"
+	}, {
+		"album": "Bill Evans Plays The Theme From The V.I.P.'s And Other Great Songs",
+		"artist": "Bill Evans",
+		"personnel": {
+			"strings and choir": ["arranger", "conductor"],
+			"Claus Ogerman": ["arranger", "conductor"],
+			"unidentified large orchestra": ["arranger", "conductor"]
+		},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "MGM E 4184"
+	}, {
+		"album": "Twilight Of Honor (Soundtrack)",
+		"personnel": {
+			"strings and choir": ["arranger", "conductor"],
+			"Claus Ogerman": ["arranger", "conductor"],
+			"unidentified large orchestra": ["arranger", "conductor"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Various Artists",
+		"label-id": "MGM E 4185",
+		"year": "1963"
+	}, {
+		"album": "Hits Are On Verve",
+		"personnel": {
+			"strings and choir": ["arranger", "conductor"],
+			"Claus Ogerman": ["arranger", "conductor"],
+			"unidentified large orchestra": ["arranger", "conductor"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Various Artists",
+		"label-id": "Verve VS 201",
+		"year": "1963"
+	}, {
+		"album": "Time Remembered",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Milestone M 47068"
+	}, {
+		"album": "Hole",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Riverside RLP 487"
+	}, {
+		"album": "Hole",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Original Jazz Classics OJCCD 263-2"
+	}, {
+		"album": "63",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "no label no number"
+	}, {
+		"album": "Trio '64",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Gary Peacock": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Verve V/V6 8578"
+	}, {
+		"album": "The Complete Bill Evans On Verve",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Gary Peacock": ["bass"],
+			"Paul Motian": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1963",
+		"label-id": "Verve 314 527 953-2"
+	}, {
+		"album": "Stan Getz And Bill Evans",
+		"personnel": {
+			"Richard Davis": ["bass"],
+			"Stan Getz": ["tenor saxophone"],
+			"Elvin Jones": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Stan Getz And Bill Evans",
+		"label-id": "Verve V6 8833",
+		"year": "1964"
+	}, {
+		"album": "Stan Getz And Bill Evans",
+		"personnel": {
+			"Richard Davis": ["bass"],
+			"Stan Getz": ["tenor saxophone"],
+			"Elvin Jones": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Stan Getz And Bill Evans",
+		"label-id": "Verve 833 802-2",
+		"year": "1964"
+	}, {
+		"album": "The Bill Evans Trio \"Live\"",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1964",
+		"label-id": "Verve V6 8803"
+	}, {
+		"album": "Waltz For Debby \u00a0(Philips",
+		"artist": "Monica Zetterlund",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["vocals"],
+		"year": "1964",
+		"label-id": "Swd) 6378 508"
+	}, {
+		"album": "In Europe \u00a0(Green Line",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1964",
+		"label-id": "It) VID JAZZ 38"
+	}, {
+		"album": "Trio '65",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1965",
+		"label-id": "Verve V/V6 8613"
+	}, {
+		"album": "How Deep Is The Ocean \u00a0(Heart Note",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1965",
+		"label-id": "Swd) HN 107"
+	}, {
+		"album": "Paris 1965 \u00a0(Royal Jazz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1965",
+		"label-id": "D) RJ 503"
+	}, {
+		"album": "Two Super Bill Evans Trio In Europe",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1965",
+		"label-id": "Unique Jazz UJ 24"
+	}, {
+		"album": "Jazz 625 \u00a0(Vap",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1965",
+		"label-id": "J) VPVR 60757"
+	}, {
+		"album": "Jazz 625 \u00a0(Vap",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Larry Bunker": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1965",
+		"label-id": "J) VPVR 60765"
+	}, {
+		"album": "Bill Evans Trio With Symphony Orchestra",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Larry Bunker": ["drums"],
+			"reeds and strings": ["arranger", "conductor"],
+			"Chuck Israels": ["bass"],
+			"unidentified horns": ["arranger", "conductor"],
+			"Claus Ogerman": ["arranger", "conductor"]
+		},
+		"instrument": ["piano"],
+		"year": "1965",
+		"label-id": "Verve V/V6 8640"
+	}, {
+		"album": "Together Again \u00a0(Moon",
+		"personnel": {
+			"Niels-Henning Orsted Pedersen": ["bass"],
+			"Alan Dawson": ["drums"],
+			"Bill Evans": ["piano"],
+			"Lee Konitz": ["alto saxophone"]
+		},
+		"artist": "Bill Evans/Lee Konitz",
+		"label-id": "It) MLP 024-1",
+		"year": "1965"
+	}, {
+		"album": "Lennie Tristano Solo In Europe And Lee Konitz Quartet In Europe",
+		"artist": "Lee Konitz",
+		"personnel": {
+			"Niels-Henning Orsted Pedersen": ["bass"],
+			"Alan Dawson": ["drums"],
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["alto saxophone"],
+		"year": "1965",
+		"label-id": "Unique Jazz UJ 21"
+	}, {
+		"album": "Piano Summit \u00a0(Philology",
+		"personnel": {
+			"Lennie Tristano": ["piano"],
+			"John Lewis": ["piano"],
+			"Earl Hines": ["piano"],
+			"Alan Dawson": ["drums"],
+			"Niels-Henning Orsted Pedersen": ["bass"],
+			"Bill Evans": ["piano"],
+			"Jaki Byard": ["piano"],
+			"Teddy Wilson": ["piano"]
+		},
+		"artist": "Earl Hines/Teddy Wilson/John Lewis/Lennie Tristano/Bill Evans/Jaki Byard",
+		"label-id": "It) W 102",
+		"year": "1965"
+	}, {
+		"album": "Stockholm 1965 \u00a0(Royal Jazz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Rune Carlsson": ["drums"],
+			"Palle Danielsson": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1965",
+		"label-id": "D) RJD 519"
+	}, {
+		"album": "Lee Konitz/Chet Baker/Keith Jarret Quintet \u00a0(Jazz Connoisseur",
+		"personnel": {
+			"Niels-Henning Orsted Pedersen as NHOP as N.H.O. Pedersen": ["bass"],
+			"Bill Evans as Evans": ["piano"],
+			"Alan Dawson as Allan Dawson": ["drums"],
+			"Lee Konitz as Konitz": ["alto saxophone"]
+		},
+		"artist": "Lee Konitz/Chet Baker/Keith Jarret Quintet \u00a0(Jazz Connoisseur",
+		"label-id": "Israeli) JC 113",
+		"year": "1965"
+	}, {
+		"album": "Voice Of Vista, No. 41",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Willis Conover": ["voice"]
+		},
+		"instrument": ["voice"],
+		"year": "1965",
+		"label-id": "Vista Transcription GXTV 22028 5/4"
+	}, {
+		"album": "Bill Evans At Town Hall, Vol. 1",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Arnold Wise": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1966",
+		"label-id": "Verve V/V6 8683"
+	}, {
+		"album": "Bill Evans At Town Hall, Vol. 1",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Chuck Israels": ["bass"],
+			"Arnold Wise": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1966",
+		"label-id": "Verve 831 271-2"
+	}, {
+		"album": "The Secret Sessions",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Arnie Wise": ["drums"],
+			"Teddy Kotick": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1966",
+		"label-id": "Milestone 8MCD 4421-2"
+	}, {
+		"album": "Intermodulation",
+		"personnel": {
+			"Jim Hall": ["guitar"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Bill Evans/Jim Hall",
+		"label-id": "Verve V/V6 8655",
+		"year": "1966"
+	}, {
+		"album": "A Simple Matter Of Conviction",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Shelly Manne": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1966",
+		"label-id": "Verve V/V6 8675"
+	}, {
+		"album": "Tempo Di Jazz \u00a0(Tempo Di Jazz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eddie Gomez": ["bass"],
+			"Alex Riel": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1966",
+		"label-id": "It) CDTJ 708"
+	}, {
+		"album": "Autumn Leaves, Bill Evans Trio Live '66 \u00a0(Vap",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eddie Gomez": ["bass"],
+			"Alex Riel": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1966",
+		"label-id": "J) VPVR 60740"
+	}, {
+		"album": "Further Conversations With Myself",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1967",
+		"label-id": "Verve V/V6 8727"
+	}, {
+		"album": "California, Here I Come",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eddie Gomez": ["bass"],
+			"Philly Joe Jones": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1967",
+		"label-id": "Verve VE2 2545"
+	}, {
+		"album": "Bill Evans At The Montreux Jazz Festival",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Jack DeJohnette": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1968",
+		"label-id": "Verve V6 8762"
+	}, {
+		"album": "Bill Evans At The Montreux Jazz Festival",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1968",
+		"label-id": "Verve 827 844-2"
+	}, {
+		"album": "Alone",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1968",
+		"label-id": "Verve V6 8792"
+	}, {
+		"album": "Alone",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1968",
+		"label-id": "Verve 833 801-2"
+	}, {
+		"album": "Alone",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1968",
+		"label-id": "Verve 314 589 319-2"
+	}, {
+		"album": "What's New",
+		"personnel": {
+			"Jeremy Steig": ["flute"],
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Bill Evans/Jeremy Steig",
+		"label-id": "Verve V6 8777",
+		"year": "1969"
+	}, {
+		"album": "Autumn Leaves \u00a0(Joker",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1969",
+		"label-id": "J) UPS-2053"
+	}, {
+		"album": "Piano Perspective \u00a0(Joker",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1969",
+		"label-id": "J) UPS-2074"
+	}, {
+		"album": "1989 \u00a0(Philology",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Various Artists - It Happened In Pescara 1969",
+		"label-id": "It) W 100/101",
+		"year": "1969"
+	}, {
+		"album": "From Left To Right",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Sam Brown": ["guitar"],
+			"Eddie Gomez": ["bass"],
+			"Marty Morell": ["drums"],
+			"woodwinds and strings": ["arranger", "conductor"],
+			"Michel Legrand": ["arranger", "conductor"],
+			"unidentified brass": ["arranger", "conductor"]
+		},
+		"instrument": ["piano", "electric piano"],
+		"year": "1969",
+		"label-id": "MGM SE 4723"
+	}, {
+		"album": "Jazzhouse",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1969",
+		"label-id": "Milestone M 9151"
+	}, {
+		"album": "You're Gonna Hear From Me",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1969",
+		"label-id": "Milestone M 9164"
+	}, {
+		"album": "Quiet Now \u00a0(Affinity",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1969",
+		"label-id": "E) AFF 73"
+	}, {
+		"album": "Piano Legends \u00a0(Pioneer LDC",
+		"personnel": {
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Various Artists",
+		"label-id": "J) PILJ 1108",
+		"year": "1969"
+	}, {
+		"album": "Montreux II",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1970",
+		"label-id": "CTI 6004"
+	}, {
+		"album": "MPS Variation '73 \u00a0(MPS",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Various Artists",
+		"label-id": "G) 066641/42",
+		"year": "1970"
+	}, {
+		"album": "Homewood",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1970",
+		"label-id": "Red Bird RB 101"
+	}, {
+		"album": "Emily \u00a0(Moon",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eddie Gomez": ["bass"],
+			"Marty Morell": ["drums"],
+			"Herb Geller": ["flute"]
+		},
+		"instrument": ["piano"],
+		"year": "1971",
+		"label-id": "It) MCD 060-2"
+	}, {
+		"album": "The Bill Evans Album",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano", "electric piano"],
+		"year": "1971",
+		"label-id": "Columbia C 30855"
+	}, {
+		"album": "Live In Paris 1972, Vol. 1 \u00a0(Esoldun",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1972",
+		"label-id": "F) FC 107"
+	}, {
+		"album": "Live In Paris 1972, Vol. 2 \u00a0(Esoldun",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1972",
+		"label-id": "F) FC 114"
+	}, {
+		"album": "Europa Jazz \u00a0(Europa Jazz",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Keith Jarrett/Charles Lloyd/Dollar Brand/Michael White",
+		"label-id": "It) EJ 1016",
+		"year": "1972"
+	}, {
+		"album": "Living Time",
+		"personnel": {
+			"Eddie Gomez": ["bass"],
+			"Webster Lewis": ["electric piano"],
+			"George Russell": ["arranger", "conductor"],
+			"Howard Johnson": ["flugelhorn", "tuba", "bass clarinet"],
+			"Dave Bargeron": ["trombone", "tuba"],
+			"Dave Baker": ["trombone"],
+			"Ron Carter": ["electric bass"],
+			"Sam Brown": ["guitar"],
+			"Joe Henderson": ["reeds"],
+			"Bill Evans": ["piano"],
+			"Snooky Young": ["trumpet", "flugelhorn"],
+			"Ted Saunders": ["electric piano"],
+			"John Clark": ["french horn"],
+			"Garnett Brown": ["trombone"],
+			"Tony Williams": ["drums"],
+			"Marty Morell": ["drums"],
+			"Herb Geller": ["electric bass"],
+			"Richard Williams": ["trumpet", "flugelhorn"],
+			"Jimmy Giuffre": ["reeds"],
+			"Marc Belair": ["drums", "percussion"],
+			"Ernie Royal": ["trumpet", "flugelhorn"],
+			"Sam Rivers": ["reeds"]
+		},
+		"artist": "Bill Evans/George Russell",
+		"label-id": "Columbia KC 31490",
+		"year": "1972"
+	}, {
+		"album": "Live At The Festival \u00a0(Enja",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Tony Oxley": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1972",
+		"label-id": "G) 2030"
+	}, {
+		"album": "Live In Paris 1972, Vol. 3 \u00a0(Esoldun",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1972",
+		"label-id": "F) FC 125"
+	}, {
+		"album": "Yesterday I Heard The Rain \u00a0(Bandstand",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano", "electric piano"],
+		"year": "1972",
+		"label-id": "It) BDLP 1535"
+	}, {
+		"album": "Live In Tokyo",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1973",
+		"label-id": "Epic 80329"
+	}, {
+		"album": "Bill Evans Trio Buenos Aires Concert 1973 \u00a0(Yellow Note",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1973",
+		"label-id": "Argentine) Y 201"
+	}, {
+		"album": "Half Moon Bay",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1973",
+		"label-id": "Milestone MCD 9282-2"
+	}, {
+		"album": "Eloquence",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1973",
+		"label-id": "Fantasy F 9618"
+	}, {
+		"album": "From The 70's",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1973",
+		"label-id": "Fantasy F 9630"
+	}, {
+		"album": "The Sesjun Radio Shows",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1973",
+		"label-id": "Out Of The Blue PRCD 2011005"
+	}, {
+		"album": "Since We Met",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1974",
+		"label-id": "Fantasy F 9501"
+	}, {
+		"album": "Re: Person I Knew",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1974",
+		"label-id": "Fantasy F 9608"
+	}, {
+		"album": "Symbiosis \u00a0(MPS/BASF",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Hubert Laws": ["flute"],
+			"Al Richmond": ["french horn"],
+			"George Marge": ["oboe"],
+			"Tom Mitchell": ["trombone"],
+			"Eddie Gomez": ["bass"],
+			"Danny Bank": ["clarinet"],
+			"Ron Janelly": ["clarinet"],
+			"Walt Levinsky": ["saxophone"],
+			"Mel Davis": ["trumpet"],
+			"George Devens": ["percussion"],
+			"Phil Bodner": ["oboe"],
+			"Harvey Estrin": ["saxophone"],
+			"Urbie Green": ["trombone"],
+			"Claus Ogerman": ["arranger", "conductor"],
+			"Paul Faulise": ["trombone"],
+			"Gruce Tilotson": ["french horn"],
+			"Don Butterfield": ["tuba"],
+			"Ralph MacDonald": ["percussion"],
+			"Bill Stapin": ["flute"],
+			"Jim Buffington": ["french horn"],
+			"Marvin Stamm": ["trumpet"],
+			"Don Hmmond": ["flute"],
+			"Johnny Frosk": ["trumpet"],
+			"Ray Alonge": ["french horn"],
+			"Wally Kane": ["bassoon"],
+			"Bernie Glow": ["trumpet"],
+			"Marty Morell": ["drums"],
+			"Peter Gordon": ["french horn"],
+			"Phil Woods": ["saxophone"],
+			"Dave Carey": ["percussion"],
+			"Marky Markowitz": ["trumpet"],
+			"Earl Chapin": ["french horn"],
+			"David Nedien": ["concertmaster"],
+			"Don McCourt": ["bassoon"],
+			"Victor Paz": ["trumpet"],
+			"Doug Allan": ["percussion"],
+			"Jerry Dodgion": ["saxophone"]
+		},
+		"instrument": ["piano", "electric piano"],
+		"year": "1974",
+		"label-id": "G) 21 22094-3"
+	}, {
+		"album": "Bill Evans Trio Live In Europe, Vol. 1 \u00a0(EPM Musique",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1974",
+		"label-id": "F) FDC 5712"
+	}, {
+		"album": "Bill Evans Trio Live In Europe, Vol. 2 \u00a0(EPM Musique",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1974",
+		"label-id": "F) FDC 5713"
+	}, {
+		"album": "Stan Getz With Bill Evans Trio Live In Belgium 1974",
+		"personnel": {
+			"Stan Getz": ["tenor saxophone"],
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Stan Getz With Bill Evans Trio Live In Belgium 1974",
+		"label-id": "Nova Disc ND 2",
+		"year": "1974"
+	}, {
+		"album": "But Beautiful",
+		"personnel": {
+			"Stan Getz": ["tenor saxophone"],
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "The Bill Evans Trio Featuring Stan Getz",
+		"label-id": "Milestone MCD 9249-2",
+		"year": "1974"
+	}, {
+		"album": "Am",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1974",
+		"label-id": "Canadian) CA 1200"
+	}, {
+		"album": "Blue In Green",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1974",
+		"label-id": "Milestone M 9185"
+	}, {
+		"album": "Intuition",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano", "electric piano"],
+		"year": "1974",
+		"label-id": "Fantasy F 9475"
+	}, {
+		"album": "Live In Switzerland 1975 \u00a0(Jazz Helvet",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marty Morell": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1975",
+		"label-id": "F) JH 01"
+	}, {
+		"album": "1975",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Eddie Gomez": ["bass"],
+			"Bill Evans": ["piano"],
+			"Monica Zetterlund": ["vocals"]
+		},
+		"artist": "Bill Evans Trio With Monica Zetterlund, Swedish Concert",
+		"label-id": "Nova Disc ND 1",
+		"year": "1975"
+	}, {
+		"album": "My Romance",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1975",
+		"label-id": "Zeta ZET 702"
+	}, {
+		"album": "The National Jazz Ensemble",
+		"artist": "Chuck Israels",
+		"personnel": {
+			"Tom Harrell": ["trumpet"],
+			"Jimmy Knepper": ["trombone"],
+			"Sal Nistico": ["reeds"],
+			"Steve Brown": ["guitar"],
+			"Joe Rondazzo": ["trombone"],
+			"Dave Berger": ["trumpet"],
+			"Bill Goodwin": ["drums"],
+			"John Clark": ["french horn"],
+			"Bill Evans": ["piano"],
+			"Rod Levitt": ["trombone"],
+			"Lawrence Feldman": ["reeds"],
+			"Don Hayes": ["trumpet"],
+			"Gregory Herbert": ["reeds"],
+			"Ken Berger": ["reeds"],
+			"Dennis Anderson": ["reeds"],
+			"Jimmy Maxwell": ["trumpet"]
+		},
+		"instrument": ["bass", "conductor"],
+		"year": "1975",
+		"label-id": "Chiaroscuro CR 140"
+	}, {
+		"album": "Bill Evans Album",
+		"artist": "Tony Bennett",
+		"personnel": {
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["vocals"],
+		"year": "1975",
+		"label-id": "Fantasy F 9489"
+	}, {
+		"album": "Montreux III",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano", "electric piano"],
+		"year": "1975",
+		"label-id": "Fantasy F 9510"
+	}, {
+		"album": "Monterey Jazz Festival 75 \u00a0(Toshiba EMI",
+		"personnel": {
+			"John Lewis": ["piano"],
+			"Patrice Rushen": ["piano"],
+			"Eddie Gomez": ["bass"],
+			"Marian McPartland": ["piano"],
+			"Bill Evans": ["piano"],
+			"Paul Motian": ["drums"]
+		},
+		"artist": "Various Artists",
+		"label-id": "J) TOVW-3166",
+		"year": "1975"
+	}, {
+		"album": "Alone Again",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano"],
+		"year": "1975",
+		"label-id": "Fantasy F 9542"
+	}, {
+		"album": "Quintessence",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Harold Land": ["tenor saxophone"],
+			"Kenny Burrell": ["guitar"],
+			"Philly Joe Jones": ["drums"],
+			"Ray Brown": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1976",
+		"label-id": "Fantasy F 9529"
+	}, {
+		"album": "Quintessence",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Harold Land": ["tenor saxophone"],
+			"Kenny Burrell": ["guitar"],
+			"Philly Joe Jones": ["drums"],
+			"Ray Brown": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1976",
+		"label-id": "Original Jazz Classics OJCCD 698-2"
+	}, {
+		"album": "In His Own Way \u00a0(West Wind",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1976",
+		"label-id": "G) WW 2028"
+	}, {
+		"album": "Together Again",
+		"personnel": {
+			"Tony Bennett": ["vocals"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Tony Bennett/Bill Evans",
+		"label-id": "Improvisation 7117",
+		"year": "1976"
+	}, {
+		"album": "Together Again",
+		"personnel": {
+			"Tony Bennett": ["vocals"],
+			"Bill Evans": ["piano"]
+		},
+		"artist": "Tony Bennett/Bill Evans",
+		"label-id": "Rhino R2 75837",
+		"year": "1976"
+	}, {
+		"album": "The Complete Fantasy Recordings",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1976",
+		"label-id": "Fantasy 9FCD 1012-2"
+	}, {
+		"album": "Crosscurrents",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Warne Marsh": ["tenor saxophone"],
+			"Eddie Gomez": ["bass"],
+			"Bill Evans": ["piano"],
+			"Lee Konitz": ["alto saxophone"]
+		},
+		"artist": "Bill Evans/Lee Konitz/Warne Marsh",
+		"label-id": "Fantasy F 9568",
+		"year": "1977"
+	}, {
+		"album": "Crosscurrents",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Warne Marsh": ["tenor saxophone"],
+			"Eddie Gomez": ["bass"],
+			"Bill Evans": ["piano"],
+			"Lee Konitz": ["alto saxophone"]
+		},
+		"artist": "Bill Evans/Lee Konitz/Warne Marsh",
+		"label-id": "Original Jazz Classics OJCCD 718-2",
+		"year": "1977"
+	}, {
+		"album": "I Will Say Goodbye",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1977",
+		"label-id": "Fantasy F 9593"
+	}, {
+		"album": "I Will Say Goodbye",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1977",
+		"label-id": "Original Jazz Classics OJCCD 761-2"
+	}, {
+		"album": "You Must Believe In Spring",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano"],
+		"year": "1977",
+		"label-id": "Warner Bros. HS 3504-Y"
+	}, {
+		"album": "You Must Believe In Spring",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Eliot Zigmund": ["drums"],
+			"Eddie Gomez": ["bass"]
+		},
+		"instrument": ["piano", "piano", "electric piano"],
+		"year": "1977",
+		"label-id": "Rhino/Warner Bros. 73719"
+	}, {
+		"album": "Getting Sentimental",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Michael Moore": ["bass"],
+			"Philly Joe Jones": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1978",
+		"label-id": "Milestone MCD 9336-2"
+	}, {
+		"album": "New Conversations",
+		"artist": "Bill Evans",
+		"personnel": {},
+		"instrument": ["piano", "electric piano"],
+		"year": "1978",
+		"label-id": "Warner Bros. BSK 3177-Y"
+	}, {
+		"album": "Affinity",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Larry Scheneider": ["alto", "tenor saxophone", "alto flute"],
+			"Marc Johnson": ["bass"],
+			"Eliot Zigmund": ["drums"],
+			"Toots Thielemans": ["harmonica"]
+		},
+		"instrument": ["piano"],
+		"year": "1978",
+		"label-id": "Warner Bros. BSK 3293-Y"
+	}, {
+		"album": "Marian McPartland's Piano Jazz Interview \u00a0(Fantasy",
+		"artist": "Marian McPartland",
+		"personnel": {
+			"Bill Evans": ["piano"]
+		},
+		"instrument": ["interviewer", "piano"],
+		"year": "1978",
+		"label-id": "J) VDJ 25045"
+	}, {
+		"album": "Bill Evans Trio Live At The Maintenance Shop '79 \u00a0(Vap",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "J) VPVR 60647"
+	}, {
+		"album": "Last Performance \u00a0(Victor Entertainment",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "J) VIVJ 1"
+	}, {
+		"album": "We Will Meet Again",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Tom Harrell": ["trumpet"],
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"],
+			"Larry Schneider": ["tenor", "soprano saxophone"]
+		},
+		"instrument": ["piano", "electric piano"],
+		"year": "1979",
+		"label-id": "Warner Bros. HS 3411-Y"
+	}, {
+		"album": "Bill Evans Trio Live In Buenos Aires 1979 \u00a0(Yellow Note",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "Argentine) Y 200"
+	}, {
+		"album": "Homecoming (Live At Southeastern Louisiana University, 1979)",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "Milestone MCD 9291-2"
+	}, {
+		"album": "The Paris Concert, Edition 1",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "Elektra Musician E1-60164"
+	}, {
+		"album": "The Paris Concert, Edition 2",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "Elektra Musician E1-60311"
+	}, {
+		"album": "Bill Evans Trio Live At Balboa Jazz Club, Vol. 4 \u00a0(Ivory",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "Portuguese) ILP 3003"
+	}, {
+		"album": "Bill Evans Trio Live At Balboa Jazz Club, Vol. 5 \u00a0(Ivory",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "Portuguese) ILP 3004"
+	}, {
+		"album": "Bill Evans Trio Live At Balboa Jazz Club, Vol. 1 \u00a0(Ivory",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "Portuguese) ILP 3000"
+	}, {
+		"album": "Bill Evans Trio Live At Balboa Jazz Club, Vol. 2 \u00a0(Ivory",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "Portuguese) ILP 3001"
+	}, {
+		"album": "Bill Evans Trio Live At Balboa Jazz Club, Vol. 3 \u00a0(Ivory",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "Portuguese) ILP 3002"
+	}, {
+		"album": "The Brilliant Bill Evans \u00a0(West Wind",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1979",
+		"label-id": "G) WW 2058"
+	}, {
+		"album": "June 1980",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1980",
+		"label-id": "Mosaic MR10-171"
+	}, {
+		"album": "Letter To Evan \u00a0(Dreyfus Jazz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1980",
+		"label-id": "F) 191064-2"
+	}, {
+		"album": "Turn Out The Stars \u00a0(Dreyfus Jazz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1980",
+		"label-id": "F) 191063-2"
+	}, {
+		"album": "His Last Live In Germany \u00a0(West Wind",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1980",
+		"label-id": "G) WW 2022"
+	}, {
+		"album": "The Last Waltz",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1980",
+		"label-id": "Milestone 8MCD 4430-2"
+	}, {
+		"album": "Consecration",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Marc Johnson": ["bass"],
+			"Joe LaBarbera": ["drums"]
+		},
+		"instrument": ["piano"],
+		"year": "1980",
+		"label-id": "Milestone 8MCD 4436-2"
+	}, {
+		"album": "The Universal Mind Of Bill Evans \u00a0(Vap",
+		"artist": "Bill Evans",
+		"personnel": {
+			"Harry Evans": ["voice"],
+			"Steve Allen": ["voice"]
+		},
+		"instrument": ["piano", "voice"],
+		"year": "Others",
+		"label-id": "J) VPVR 60595"
+	}
+]
