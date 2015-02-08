@@ -34,7 +34,7 @@ Will return the JSON document :
 	{"key":"Al Cohn","value":0},
 	...
 
-This is a large list (~1700) because it includes all the artists whether they're leaders or not.  NOTE: There is no name disambiguation (e.g. "Tony Williams" and "Anthony Williams" are treated as different artists eventhough they, in this case, NOT when the instrument is bass).
+This is a large list (~1700) because it includes all the artists whether they're leaders or not.  NOTE: There is no name disambiguation (e.g. "Tony Williams" and "Anthony Williams" are treated as different artists eventhough they, in this case, NOT when the instrument is drums).
 
 ###Getting collaborators
 You can learn how to get the collaborators with this simple call :
